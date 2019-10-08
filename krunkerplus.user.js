@@ -8,6 +8,7 @@
 // @require      https://code.jquery.com/ui/1.12.0/jquery-ui.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.js
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party|game)=.+)$/
+// @run-at       document-start
 // @grant        none
 // ==/UserScript==
 //Tells u if hack is working.
